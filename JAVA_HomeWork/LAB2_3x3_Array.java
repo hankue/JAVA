@@ -1,4 +1,6 @@
-//183頁LAB2:陣列練習
+/*183頁LAB2:陣列練習
+  兩個陣列相加
+  */
 public class LAB2_3x3_Array {
     public static void main (String args[]) {
 
